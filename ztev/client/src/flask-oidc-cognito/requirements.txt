@@ -1,0 +1,9 @@
+# prod dependencies
+Flask
+itsdangerous
+oauth2client
+six
+cachetools
+jwcrypto
+python-jwt
+
